@@ -1,0 +1,4 @@
+pyobjc-core==11.1
+pyobjc-framework-Cocoa==11.1
+pyobjc-framework-Quartz==11.1
+watchdog==6.0.0
